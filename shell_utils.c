@@ -1,12 +1,5 @@
 #include "shell.h"
 /**
- * Auth: Brian W
- * 		 Zach Ria
- *
- * Description:
- * the extended functions for main.c
- */
-/**
  * parse_command - determines the type of the command
  * @command: command to be parsed
  * Return: constant representing type of the command
