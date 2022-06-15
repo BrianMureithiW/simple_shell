@@ -1,11 +1,4 @@
-#include "shell.h"
-/**
- * Auth: Brian M Wambugu
- * Zacharia Ria Ndungu
- * Description:
- * the extended functions for main.c
- */
-
+#include "shell"
 /**
  * parse_command - determines the type of the command
  * @command: command to be parsed
