@@ -2,7 +2,7 @@
 /**
  * parse_command - determines the type of the command
  * @command: command to be parsed
- * Return: constant representing the type of the command
+ * Return: constant representing type of the command
  */
 int parse_command(char *command)
 {
