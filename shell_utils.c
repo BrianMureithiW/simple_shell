@@ -1,4 +1,4 @@
-#include "shell"
+#include "shell.h"
 /**
  * parse_command - determines the type of the command
  * @command: command to be parsed
